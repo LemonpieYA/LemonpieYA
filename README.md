@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LemonpieYA
 - 👀 I’m interested in DB analysis, App creation,
-- 🌱 I’m currently learning PHP/ Phyton/ HTML/ CSS.
+- 🌱 I’m currently learning SQL PHP/ Phyton/ HTML/ CSS.
 - 📫 How to reach me github
 
 <!---
